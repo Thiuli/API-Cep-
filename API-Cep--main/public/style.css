@@ -1,0 +1,52 @@
+/* Basic styles */
+body {
+  background-image: url('img/sobre-cep.jpg');
+  background-repeat: repeat; 
+  background-attachment: fixed; 
+  background-size: cover; 
+  background-position: center center; 
+  font-family: Arial, sans-serif;
+  margin: 0;
+  }
+  
+  h1 {
+
+    text-align: left;
+    margin-bottom: 20px;
+    color:rgb(43, 2, 248)
+  }
+  
+  /* Form styles */
+  form {
+    font-weight: bold;
+    width: 300px;
+    height: 300px;
+    font-size: 20px;
+    color: rgb(70, 8, 255);
+    display: flex;
+    flex-direction: column;
+    width: 400px; /* Adjust width as needed */
+    margin: 0 auto; /* Center the form horizontally */
+  }
+  
+  .controle-form {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+  }
+  
+  label {
+    flex: 0 0 30%; /* Set label width */
+    margin-right: 10px; /* Add space between label and input */
+  }
+  
+  input[type="text"] {
+    font-size: 20px;
+    flex: 1; /* Make input fields fill remaining space */
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  btCadastrar{
+
+    }

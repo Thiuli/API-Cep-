@@ -1,0 +1,58 @@
+body {
+    background-image: url('API-Cep--main/img/sobre-cep.jpg');
+    background-repeat: repeat; 
+    background-attachment: fixed; 
+    background-size: cover; 
+    background-position: center center; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    
+    }
+    
+    h1 {
+  
+      text-align: left;
+      margin-bottom: 200px;
+      color:rgb(12, 118, 210);
+      font-size: 400% 
+    }
+    
+    /* Form styles */
+    form {
+      font-size: 200%;
+      color: rgb(253, 252, 255);
+      display: flex;
+      flex-direction: column;
+      width: 400px; /* Ajuste a largura conforme necessário*/
+      margin: 0 auto; /* Centralize o formulário horizontalmente*/
+    }
+    
+    .controle-form {
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+    }
+    
+    label {
+      flex: 0 0 30%; /* Definir largura da etiqueta*/
+      margin-right: 10px; /* Adicione espaço entre o rótulo e a entrada */
+    }
+    
+    input[type="text"] {
+      flex: 1; /* Faça com que os campos de entrada preencham o espaço restante*/
+      padding: 5px;
+      border: 1px solid #ccc;
+    }
+#button{
+    width: 200px; /* Define a largura do botão como 200 pixels */
+    height: 50px;  /* Define a altura do botão como 50 pixels */
+  }
+
+  #button{
+    display: block; /* Define o botão como um bloco */
+    margin: 0 auto; /* Centraliza horizontalmente */
+    padding: 10px 20px; /* Adiciona padding para melhor visualização */
+    border: 1px solid #ccc; /* Adiciona borda (opcional) */
+    border-radius: 5px; /* Arredonda os cantos (opcional) */
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "endereco":[
+        {
+            "cep": "09810390",
+            "longradouro": "Rua das Orquideas",
+            "bairro":"Assunção",
+            "cidade": "São Paulo",
+            "uf": "SP"
+            
+        }
+    ]
+}
