@@ -1,0 +1,35 @@
+{
+  "endereco": [
+    {
+      "cep": "09810390",
+      "logradouro": "Ruas das Orquidias",
+      "bairro": "Assunção",
+      "Cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "id": "4b57"
+    },
+    {
+      "cep": "01222001",
+      "logradouro": "Rua MAjor Sertório",
+      "bairro": "Vila BUarque",
+      "Cidade": "São Paulo",
+      "uf": "SP",
+      "id": "a8b0"
+    },
+    {
+      "cep": "01310200",
+      "logradouro": "Rua Augusta",
+      "bairro": "Consolação",
+      "Cidade": "São Paulo",
+      "uf": "SP",
+      "id": "630a"
+    },
+    {
+      "id": "4642"
+    },
+    {
+      "logradouro": "Rua Moreira de Godói",
+      "id": "6250"
+    }
+  ]
+}
